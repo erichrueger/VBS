@@ -25,7 +25,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/nextcloud.sbbz-ilvesheim.de\/apps\/onlyoffice\/s\/CrZpi9kZi4bTK65"
+                 "value":"https:\/\/nextcloud.sbbz-ilvesheim.de\/apps\/onlyoffice\/s\/http:\/\/workadventure.sbbz-ilvesheim.de:9001\/p\/vbs"
                 }],
          "type":"tilelayer",
          "visible":true,
