@@ -25,7 +25,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/etherpad.brewger.de\/p\/vbs?userName=workadventure"
+                 "value":"https:\/\/etherpad.brewger.de\/p\/vbs?userName=https:\/\/nextcloud.sbbz-ilvesheim.de\/s\/CrZpi9kZi4bTK65"
                 }],
          "type":"tilelayer",
          "visible":true,
