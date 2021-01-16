@@ -25,7 +25,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/etherpad.brewger.de\/p\/vbs"
+                 "value":"https:\/\/etherpad.brewger.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
