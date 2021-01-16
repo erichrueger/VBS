@@ -25,7 +25,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/etherpad.brewger.de\/"
+                 "value":"https:\/\/etherpad.brewger.de\/p\/vbs?userName=workadventure"
                 }],
          "type":"tilelayer",
          "visible":true,
