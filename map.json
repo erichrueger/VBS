@@ -25,7 +25,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/etherpad.workadventure.sbbz-ilvesheim.de\/"
+                 "value":"https:\/\/etherpad.workadventure.sbbz-ilvesheim.de\/p\/vbs"
                 }],
          "type":"tilelayer",
          "visible":true,
