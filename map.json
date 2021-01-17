@@ -25,7 +25,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/etherpad.workadventure.sbbz-ilvesheim.de\/p\/schloss-schule-ilvesheim"
+                 "value":"https:\/\/schloss-schule-ilvesheim.de"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -59,7 +59,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"https:\/\/bbb.sbbz-ilvesheim.de"
                 }],
