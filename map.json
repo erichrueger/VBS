@@ -25,7 +25,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/etherpad.workadventure.sbbz-ilvesheim.de\/p\/vbs"
+                 "value":"https:\/\/yopad.eu\/p\/vbs-365days"
                 }],
          "type":"tilelayer",
          "visible":true,
