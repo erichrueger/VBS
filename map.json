@@ -25,7 +25,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/schloss-schule-ilvesheim.de"
+                 "value":"https:\/\/www.vbs.eu\/de\/startseite\/"
                 }],
          "type":"tilelayer",
          "visible":true,
